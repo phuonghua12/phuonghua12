@@ -22,7 +22,8 @@ Built a cloud-storage style app with authentication + file management features a
 
 ### **Coursework + Research Writing (CS 131)**
 Worked on a team paper/presentation with structured research, clear documentation, and careful reasoning.  
-➡️ Paper/Slides: **https://drive.google.com/file/d/1nuPX3Bx2e4Fv3D7F99ztvBuoj4m4x8oq/view?usp=drive_link**/ **https://drive.google.com/file/d/19ETNLq5zIQB4uK8wjeI9S77dqC73rSRp/view?usp=drive_link**
+➡️ Paper/Slides: **https://drive.google.com/file/d/1nuPX3Bx2e4Fv3D7F99ztvBuoj4m4x8oq/view?usp=drive_link**
+**https://drive.google.com/file/d/19ETNLq5zIQB4uK8wjeI9S77dqC73rSRp/view?usp=drive_link**
 
 ---
 
