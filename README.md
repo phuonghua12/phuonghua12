@@ -1,6 +1,6 @@
 # Hi, I’m Phuong Hua 👋
 
-I’m a **Data Science major (Math minor)** at **San José State University**. I was born in **Vietnam**, and I’m passionate about using **math + code + data** to turn messy information into clear, useful decisions—especially in **AI/ML** and **responsible computing**.
+I’m a **Applied Math, Discrete Concentration major (CS minor)** at **San José State University**. I was born in **Vietnam**, and I’m passionate about using **math + code + data** to turn messy information into clear, useful decisions—especially in **AI/ML** and **responsible computing**.
 
 - 🎓 **AI/ML Fellow @ Break Through Tech**
 - 🏆 **Samsung Semiconductor Scholarship Finalist**
